@@ -13,6 +13,4 @@ let solution=document.getElementsByClassName("solution");
                 
         })
         
-        // console.log(solution[i]);
-        // solution[i].style.display="block";
     }
