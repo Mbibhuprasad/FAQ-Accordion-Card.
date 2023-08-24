@@ -113,7 +113,7 @@ body {
 @media screen and (max-width:1000px) {
     .container {
         flex-direction: column;
-        width: 50%;
+        width: 80%;
         background-image: url('images/bg-pattern-mobile.svg');
         background-size: contain;
     }
